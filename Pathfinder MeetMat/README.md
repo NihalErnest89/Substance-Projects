@@ -1,6 +1,6 @@
 # Pathfinder MeetMat
 
-This version of MeetMat is known as the Pathfinder. The materials and smart materials, used for the base and metal finish, were created in Substance Alchemist and Substance Designer. The rest of the texturing was designed and made in Substance painter. The 3D Model is a default file provided by Substance Painter, however in the final renders, it was visually altered with tesselation.
+This version of MeetMat is known as the Pathfinder. The materials and smart materials, used for the base and metal finish, were created in Substance Alchemist and Substance Designer. The rest of the texturing was designed and made in Substance painter. The 3D Model is a default file provided by Substance Painter, however in the final renders, it was visually altered with tessellation.
 
 ## Running
 
